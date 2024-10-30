@@ -1,1 +1,1 @@
-[text](https://tech.kakaoenterprise.com/187)
+[카카오엔터프라이즈 [TW] 테크니컬 라이터와 Git](https://tech.kakaoenterprise.com/187)
