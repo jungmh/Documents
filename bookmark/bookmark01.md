@@ -27,5 +27,7 @@
 [한글유니코드완정정복2](https://yozm.wishket.com/magazine/detail/2837/)
 
 
+[AI커리어조언](https://yozm.wishket.com/magazine/detail/2845/?data=UXcsYj9aGVZ4kF1ap%2f3yQcpFvwydrjtNxXkO8ofv+0w=&source=daily_latest_news)
+
 
 
