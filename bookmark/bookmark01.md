@@ -41,3 +41,9 @@
 [MUI](https://mui.com/material-ui/)
 
 [css in js 성틍](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b)
+
+
+[Javascript를 이용하여 JS 파일 동적 로딩](https://tg360.tistory.com/entry/JavaScript%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-JS-%ED%8C%8C%EC%9D%BC-%EB%8F%99%EC%A0%81-%EB%A1%9C%EB%94%A9)
+
+
+
